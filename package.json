@@ -1,0 +1,23 @@
+{
+  "name": "project-cabbage-chair",
+  "version": "1.0.0",
+  "description": "Projet en Développement Front sur une présentation d'un produit sur un site one page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kerta-Carton/project-cabbage-chair.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kerta-Carton/project-cabbage-chair/issues"
+  },
+  "homepage": "https://github.com/Kerta-Carton/project-cabbage-chair#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
