@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Kerta-Carton/project-cabbage-chair#readme",
   "devDependencies": {
-    "parcel": "^1.12.4"
+    "parcel": "^2.8.2"
   }
 }
